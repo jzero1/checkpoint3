@@ -48,4 +48,14 @@ function upgrade() {
     } else {
         cost.style.color = "red"
     }
+
+/* function showHowToPlay() {
+    $('.howToPlay').slidePanel({
+        triggerName: '#rightPanel',
+        triggerTopPos: '110px',
+        panelTopPos: '100px'
+    }
+} */
+
+
 }); 
